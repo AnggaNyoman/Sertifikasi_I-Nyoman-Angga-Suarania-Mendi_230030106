@@ -177,7 +177,7 @@ crud_anggota
 └── README.md
 ```
 
-Penjelasan:
+### Penjelasan Struktur Folder
 
 * **assets/** → berisi file CSS, JavaScript, dan gambar
 * **includes/** → berisi file autentikasi dan konfigurasi
@@ -195,7 +195,7 @@ Penjelasan:
 
 ## 🔐 Login ke Sistem
 
-Untuk menggunakan aplikasi **SIMAKO**, pengguna harus melakukan login terlebih dahulu dengan menggunakan **username** dan **password** yang sudah tersimpan di dalam database.
+Untuk menggunakan aplikasi **SIMAKO**, pengguna harus melakukan login terlebih dahulu dengan menggunakan **username** dan **password** yang telah dikonfigurasi pada sistem.
 
 ### 🪜 Langkah Login
 
@@ -205,20 +205,18 @@ Untuk menggunakan aplikasi **SIMAKO**, pengguna harus melakukan login terlebih d
 4. 🔎 Sistem melakukan proses **verifikasi data pengguna**
 
 Jika data login benar, maka pengguna akan diarahkan ke **🏠 halaman utama sistem**.
-<img width="780" height="385" alt="image" src="https://github.com/user-attachments/assets/2b785d9c-f8c6-47af-8563-b37316de5605" />
 
 ---
 
-### ⚙️ Aktivitas Setelah Login
+## ⚙️ Aktivitas Setelah Login
 
 Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 
-* ➕ **Menambah data anggota** koperasi
-* ✏️ **Mengedit data anggota** yang sudah tersimpan
-* ❌ **Menghapus data anggota** yang tidak diperlukan
-* 📋 **Melihat daftar data anggota** dalam database
+* ➕ **Menambah data anggota**
+* ✏️ **Mengedit data anggota**
+* ❌ **Menghapus data anggota**
+* 📋 **Melihat daftar data anggota**
 * 📤 **Mengekspor data anggota ke Excel**
-<img width="758" height="364" alt="image" src="https://github.com/user-attachments/assets/ac64627b-03cc-48cb-844e-15bd6ec3bda5" />
 
 ---
 
@@ -228,10 +226,6 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 2. Mengisi data anggota pada form
 3. Klik tombol **Simpan**
 4. Data anggota tersimpan dalam database
-<img width="244" height="57" alt="image" src="https://github.com/user-attachments/assets/fc968db5-e29e-4212-a229-9482e4ab30cb" />
-<img width="773" height="385" alt="image" src="https://github.com/user-attachments/assets/08c15179-55fb-444b-8b70-d37d9469869f" />
-<img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/121ffe8e-22be-4fa2-ac6c-037882ce1745" />
-<img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/4443f289-9515-4b72-af41-896c3ca9fbad" />
 
 ---
 
@@ -241,9 +235,6 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 2. Klik tombol **Edit**
 3. Mengubah data yang diperlukan
 4. Menyimpan perubahan
-<img width="61" height="39" alt="image" src="https://github.com/user-attachments/assets/61af88af-21d1-4c79-ab3e-37b56d6c1415" />
-<img width="780" height="386" alt="image" src="https://github.com/user-attachments/assets/e252cf3f-4207-4ad0-babd-d9daea9a9e7e" />
-<img width="780" height="376" alt="image" src="https://github.com/user-attachments/assets/51ae770d-2ec0-4cb8-91e1-4dc8d14328d1" />
 
 ---
 
@@ -252,9 +243,6 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 1. Admin memilih data anggota
 2. Klik tombol **Hapus**
 3. Sistem menghapus data dari database
-<img width="58" height="44" alt="image" src="https://github.com/user-attachments/assets/be8a3681-f04b-4a11-9df6-5ce1e1e4d987" />
-<img width="1861" height="917" alt="image" src="https://github.com/user-attachments/assets/00a7a768-0c97-4837-ab6e-6c55eacb6dbd" />
-<img width="758" height="364" alt="image" src="https://github.com/user-attachments/assets/fe0c3c70-bafb-488a-8e3e-a965ab59d9a8" />
 
 ---
 
@@ -265,8 +253,6 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 3. Sistem mengambil data anggota dari database
 4. Sistem membuat file laporan dalam format **Excel (.xls)**
 5. File laporan otomatis diunduh oleh pengguna
-<img width="139" height="55" alt="image" src="https://github.com/user-attachments/assets/0b49d855-82a5-4cbc-9143-f2808403c0d0" />
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/c081b16c-292f-4c1f-a04e-950c710fd97f" />
 
 ---
 
@@ -292,17 +278,17 @@ Program ini menggunakan beberapa konsep pemrograman, yaitu:
 * Perulangan **while**
 * Penggunaan **fungsi**
 * Penggunaan **array**
-* **Namespace dalam PHP**
+* Struktur folder modular
 * Dokumentasi kode program
 
 ---
 
 # 👨‍💻 Author
 
-Nama          : **I Nyoman Angga Suarania Mendi**
-NIM           : **230030106**
+Nama : **I Nyoman Angga Suarania Mendi**
+NIM : **230030106**
 Program Studi : **Sistem Informasi**
-Institusi     : **ITB STIKOM Bali**
+Institusi : **ITB STIKOM Bali**
 
 ---
 
