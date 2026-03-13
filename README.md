@@ -1,4 +1,4 @@
-<img width="153" height="55" alt="image" src="https://github.com/user-attachments/assets/0031fe7c-6538-4d78-a3d5-7224be9b5433" /># 🏢 SIMAKO — Sistem Manajemen Anggota Koperasi
+# 🏢 SIMAKO — Sistem Manajemen Anggota Koperasi
 
 **SIMAKO (Sistem Manajemen Anggota Koperasi)** adalah aplikasi berbasis web yang digunakan untuk mengelola data anggota koperasi secara digital. Sistem ini menyediakan fitur pengolahan data anggota seperti menambah, menampilkan, mengubah, menghapus, serta mengekspor data anggota menjadi laporan.
 
