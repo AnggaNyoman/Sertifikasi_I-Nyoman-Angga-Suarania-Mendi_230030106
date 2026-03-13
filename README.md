@@ -252,7 +252,6 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 1. Admin memilih data anggota
 2. Klik tombol **Hapus**
 3. Sistem menghapus data dari database
-<img width="758" height="364" alt="image" src="https://github.com/user-attachments/assets/5a5f026b-11db-48a8-a95b-87eb4de7b9e6" />
 <img width="156" height="63" alt="image" src="https://github.com/user-attachments/assets/7f5b4c62-45ed-47af-8af0-8c9a932ebc3f" />
 
 ---
