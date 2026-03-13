@@ -1,4 +1,4 @@
-# 🏢 SIMAKO — Sistem Manajemen Anggota Koperasi
+<img width="153" height="55" alt="image" src="https://github.com/user-attachments/assets/0031fe7c-6538-4d78-a3d5-7224be9b5433" /># 🏢 SIMAKO — Sistem Manajemen Anggota Koperasi
 
 **SIMAKO (Sistem Manajemen Anggota Koperasi)** adalah aplikasi berbasis web yang digunakan untuk mengelola data anggota koperasi secara digital. Sistem ini menyediakan fitur pengolahan data anggota seperti menambah, menampilkan, mengubah, menghapus, serta mengekspor data anggota menjadi laporan.
 
@@ -228,10 +228,10 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 2. Mengisi data anggota pada form
 3. Klik tombol **Simpan**
 4. Data anggota tersimpan dalam database
-
-<img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/31175928-b95e-47cf-88dd-9d2a505c133a" />
-<img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/da8597dc-b7c9-4dfe-84f3-7fd74fb720e8" />
-<img width="758" height="364" alt="image" src="https://github.com/user-attachments/assets/d74b9a92-a30b-4463-a4c2-c21d8a3d2f3a" />
+<img width="259" height="70" alt="image" src="https://github.com/user-attachments/assets/a6e9af39-b1d0-4faf-953e-8c67762626c9" />
+<img width="773" height="385" alt="image" src="https://github.com/user-attachments/assets/d63e6883-cc9d-41d5-ab0a-f2cf3fb5115f" />
+<img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/92554acc-dcbd-428f-95f5-df6adb6ff4cc" />
+<img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/46ec2d00-3da5-4676-a000-aae4bde8b31c" />
 
 ---
 
@@ -241,9 +241,10 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 2. Klik tombol **Edit**
 3. Mengubah data yang diperlukan
 4. Menyimpan perubahan
-<img width="780" height="386" alt="image" src="https://github.com/user-attachments/assets/430f4c28-8752-4dfe-b3d2-b74eab5c5b03" />
-<img width="780" height="376" alt="image" src="https://github.com/user-attachments/assets/6c5336b2-5bb7-405d-baa3-9f7ac00373a1" />
-<img width="64" height="48" alt="image" src="https://github.com/user-attachments/assets/be53cbe9-c29a-4b54-9c98-92c484e51396" />
+<img width="75" height="54" alt="image" src="https://github.com/user-attachments/assets/22f48c42-036d-4f8e-a7f8-53ac152d3bf9" />
+<img width="780" height="386" alt="image" src="https://github.com/user-attachments/assets/8c9e73be-5c80-4f8b-8677-11911a7328b6" />
+<img width="780" height="376" alt="image" src="https://github.com/user-attachments/assets/1d591bbd-bfc9-4e2d-865c-2c51cc1c1350" />
+
 
 ---
 
@@ -252,7 +253,9 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 1. Admin memilih data anggota
 2. Klik tombol **Hapus**
 3. Sistem menghapus data dari database
-<img width="156" height="63" alt="image" src="https://github.com/user-attachments/assets/7f5b4c62-45ed-47af-8af0-8c9a932ebc3f" />
+<img width="71" height="45" alt="image" src="https://github.com/user-attachments/assets/caaf7c5f-b500-488c-97f7-b849f96641ee" />
+<img width="758" height="364" alt="image" src="https://github.com/user-attachments/assets/c2877bc1-2fc8-49be-85b2-b34ed05efe1e" />
+
 
 ---
 
@@ -263,8 +266,8 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 3. Sistem mengambil data anggota dari database
 4. Sistem membuat file laporan dalam format **Excel (.xls)**
 5. File laporan otomatis diunduh oleh pengguna
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/dfd6375a-21ed-4279-bc5b-63cbfe415544" />
-![Uploading image.png…]()
+<img width="153" height="55" alt="image" src="https://github.com/user-attachments/assets/c63fda83-e7a6-4adf-84df-3450a784e1e3" />
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/85d31a72-5d87-4093-b2b9-b5454de282c5" />
 
 ---
 
