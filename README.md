@@ -203,8 +203,10 @@ Untuk menggunakan aplikasi **SIMAKO**, pengguna harus melakukan login terlebih d
 2. 👤 Masukkan **username** dan **password**
 3. 🖱 Klik tombol **Login**
 4. 🔎 Sistem melakukan proses **verifikasi data pengguna**
+<img width="780" height="385" alt="image" src="https://github.com/user-attachments/assets/0a6775b9-d2b8-444c-9956-ec8a8da89056" />
 
 Jika data login benar, maka pengguna akan diarahkan ke **🏠 halaman utama sistem**.
+<img width="758" height="364" alt="image" src="https://github.com/user-attachments/assets/32ed4e45-3b5f-476f-8a66-b1cfaa730fbe" />
 
 ---
 
@@ -226,6 +228,10 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 2. Mengisi data anggota pada form
 3. Klik tombol **Simpan**
 4. Data anggota tersimpan dalam database
+<img width="773" height="385" alt="image" src="https://github.com/user-attachments/assets/f51a211b-6b87-4142-9075-dcfaf36ac232" />
+<img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/31175928-b95e-47cf-88dd-9d2a505c133a" />
+<img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/da8597dc-b7c9-4dfe-84f3-7fd74fb720e8" />
+<img width="758" height="364" alt="image" src="https://github.com/user-attachments/assets/d74b9a92-a30b-4463-a4c2-c21d8a3d2f3a" />
 
 ---
 
@@ -235,6 +241,9 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 2. Klik tombol **Edit**
 3. Mengubah data yang diperlukan
 4. Menyimpan perubahan
+<img width="780" height="386" alt="image" src="https://github.com/user-attachments/assets/430f4c28-8752-4dfe-b3d2-b74eab5c5b03" />
+<img width="780" height="376" alt="image" src="https://github.com/user-attachments/assets/6c5336b2-5bb7-405d-baa3-9f7ac00373a1" />
+<img width="64" height="48" alt="image" src="https://github.com/user-attachments/assets/be53cbe9-c29a-4b54-9c98-92c484e51396" />
 
 ---
 
@@ -243,6 +252,8 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 1. Admin memilih data anggota
 2. Klik tombol **Hapus**
 3. Sistem menghapus data dari database
+<img width="758" height="364" alt="image" src="https://github.com/user-attachments/assets/5a5f026b-11db-48a8-a95b-87eb4de7b9e6" />
+<img width="156" height="63" alt="image" src="https://github.com/user-attachments/assets/7f5b4c62-45ed-47af-8af0-8c9a932ebc3f" />
 
 ---
 
@@ -253,6 +264,8 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 3. Sistem mengambil data anggota dari database
 4. Sistem membuat file laporan dalam format **Excel (.xls)**
 5. File laporan otomatis diunduh oleh pengguna
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/dfd6375a-21ed-4279-bc5b-63cbfe415544" />
+![Uploading image.png…]()
 
 ---
 
