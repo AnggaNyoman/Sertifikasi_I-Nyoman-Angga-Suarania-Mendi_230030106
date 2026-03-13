@@ -228,7 +228,7 @@ Setelah berhasil login, pengguna dapat melakukan beberapa aktivitas berikut:
 2. Mengisi data anggota pada form
 3. Klik tombol **Simpan**
 4. Data anggota tersimpan dalam database
-<img width="773" height="385" alt="image" src="https://github.com/user-attachments/assets/f51a211b-6b87-4142-9075-dcfaf36ac232" />
+
 <img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/31175928-b95e-47cf-88dd-9d2a505c133a" />
 <img width="780" height="377" alt="image" src="https://github.com/user-attachments/assets/da8597dc-b7c9-4dfe-84f3-7fd74fb720e8" />
 <img width="758" height="364" alt="image" src="https://github.com/user-attachments/assets/d74b9a92-a30b-4463-a4c2-c21d8a3d2f3a" />
